@@ -1,0 +1,9 @@
+﻿/.idea/
+/KataBowling/.vs/KataBowling/v17
+/KataBowling/.vs/KataBowling/FileContentIndex
+/KataBowling/KataBowling/obj
+/KataBowling/KataBowling/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+/KataBowling/KataBowlingTest/obj
+*.user
+*.ncrunchproject
+*.ncrunchsolution
