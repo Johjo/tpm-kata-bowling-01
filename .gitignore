@@ -7,3 +7,4 @@
 *.user
 *.ncrunchproject
 *.ncrunchsolution
+/KataBowling/.vs/KataBowling/DesignTimeBuild
